@@ -11,6 +11,8 @@ public class FirstClass {
 		System.out.println("This is the fifth change local master");
 		System.out.println("This is the first commit from osman branch");
 		
+		System.out.println("This is the socond commit from local osman branch");
+		
 	}
 
 }
