@@ -7,9 +7,8 @@ public class FirstClass {
 		System.out.println("This is the second change from local master");
 		System.out.println("This is the third change from local master");
 		System.out.println("This is the first change remote master");
-		
-		
-		System.out.println("This is the second change remote master");
+		System.out.println("This is the fourth change local master");
+		System.out.println("This is the fifth change local master");
 		
 	}
 
